@@ -1,0 +1,26 @@
+.Hero {
+    height: 575px;
+    background-color: #242B3A;
+    display: flex;
+
+    &__Left-Container {
+        width: 50%;
+        padding-left: 86px;
+        padding-top: 160px;
+    }
+
+    &__Right-Container {
+        width: 50%;
+        position: relative;
+
+        &__PH {
+            position: absolute;
+            top: 84px;
+            right: 0;
+            width: 443px;
+            height: 290px;
+            background-color: #51B03E;
+            box-shadow: -20px 15px rgba(0, 0, 0, 0.16);
+        }
+    }
+}

@@ -1,0 +1,24 @@
+.Card {
+    width: 211px;
+    height: 269px;
+    box-shadow: 0 3 9px rgba(0, 0, 0, 0.16);
+    background-color: white;
+    display: flex;
+    cursor: pointer;
+    position: relative;
+    top: 0;
+    transition: all ease-in 0.2s;
+
+    &:hover {
+        top: -40px;
+    }
+
+    &__Text {
+        font-size: 26px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #51B03E;
+        margin: auto;
+        text-align: center;
+        padding: 0 40px;
+    }
+}

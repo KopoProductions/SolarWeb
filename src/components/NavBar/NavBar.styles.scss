@@ -1,0 +1,36 @@
+.NavBar {
+    position: fixed;
+    display: flex;
+    width: 100%;
+    z-index: 50;
+    
+    &__Logo {
+        width: 50px;
+        margin: 3px 0 7px 0;
+    }
+
+    &__Container {
+        display: flex;
+        margin: 0 auto;
+
+        & .active {
+            border-top: 4px #51B03E solid;
+        }
+
+        &__Link {
+            color: #51B03E;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            font-size: 12px;
+            padding-top: 12px;
+            border-top: 4px solid #51b03e00;
+            cursor: pointer;
+            height: fit-content;
+
+            &:not(:first-of-type) {
+                margin-left: 20px;
+            }
+        }
+    }
+    
+}

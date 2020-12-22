@@ -1,0 +1,21 @@
+.CTA {
+
+    width: fit-content;
+    height: 45px;
+    padding: 0 10px;
+    border-radius: 25px;
+    display: flex;
+    background-color: white;
+    user-select: none;
+    cursor: pointer;
+
+    &__Text {
+        margin: auto;
+        font-weight: bold;
+        font-family: Helvetica, sans-serif;
+        font-size: 10;
+        color: #51B03E;
+        
+    }
+
+}

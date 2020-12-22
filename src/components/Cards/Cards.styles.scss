@@ -1,0 +1,13 @@
+.Cards {
+    height: 242px;
+    background-color: rgba(177, 177, 177, 0.45);
+    position: relative;
+
+    &__Container {
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        position: absolute;
+        top: -59px;
+    }
+}

@@ -1,0 +1,57 @@
+.CardViewer {
+    display: flex;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.658);
+    z-index: 100;
+    cursor: pointer;
+
+    &__Container {
+        margin: auto;
+        width: 683px;
+        background-color: #FFF;
+        text-align: center;
+        padding: 134px 93px 86px;
+        border: solid 1px rgb(177, 177, 177);
+        cursor: default;
+        z-index: 101;
+
+        &__Title {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 57px;
+            font-weight: bold;
+            color: #51B03E;
+            margin-bottom: 5PX;
+        }
+
+        &__Sub-Title {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 25px;
+            font-weight: bold;
+            color: #51B03E;
+            margin-bottom: 37px;
+        }
+
+        &__Text {
+            font-family: Helvetica, sans-serif;
+            font-size: 34px;
+        }
+    }
+
+    &__X {
+        position: absolute;
+        top: 10px;
+        right: 20px;
+        color:#51B03E;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 45px;
+        cursor: pointer;
+        z-index: 102;
+
+        &:hover {
+            color:#4cce32;
+        }
+    }
+}
