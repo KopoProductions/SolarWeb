@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/SolarWeb/static/css/main.cf598f71.chunk.css",
-    "main.js": "/SolarWeb/static/js/main.a1b0dada.chunk.js",
-    "main.js.map": "/SolarWeb/static/js/main.a1b0dada.chunk.js.map",
-    "runtime-main.js": "/SolarWeb/static/js/runtime-main.3d94bd0c.js",
-    "runtime-main.js.map": "/SolarWeb/static/js/runtime-main.3d94bd0c.js.map",
-    "static/js/2.9994462f.chunk.js": "/SolarWeb/static/js/2.9994462f.chunk.js",
-    "static/js/2.9994462f.chunk.js.map": "/SolarWeb/static/js/2.9994462f.chunk.js.map",
-    "static/js/3.e9dd6af0.chunk.js": "/SolarWeb/static/js/3.e9dd6af0.chunk.js",
-    "static/js/3.e9dd6af0.chunk.js.map": "/SolarWeb/static/js/3.e9dd6af0.chunk.js.map",
-    "index.html": "/SolarWeb/index.html",
-    "static/css/main.cf598f71.chunk.css.map": "/SolarWeb/static/css/main.cf598f71.chunk.css.map",
-    "static/js/2.9994462f.chunk.js.LICENSE.txt": "/SolarWeb/static/js/2.9994462f.chunk.js.LICENSE.txt"
+    "main.css": "/Stocked-On-Solar/static/css/main.0fa04588.chunk.css",
+    "main.js": "/Stocked-On-Solar/static/js/main.d588d711.chunk.js",
+    "main.js.map": "/Stocked-On-Solar/static/js/main.d588d711.chunk.js.map",
+    "runtime-main.js": "/Stocked-On-Solar/static/js/runtime-main.546b89d1.js",
+    "runtime-main.js.map": "/Stocked-On-Solar/static/js/runtime-main.546b89d1.js.map",
+    "static/js/2.4aa97010.chunk.js": "/Stocked-On-Solar/static/js/2.4aa97010.chunk.js",
+    "static/js/2.4aa97010.chunk.js.map": "/Stocked-On-Solar/static/js/2.4aa97010.chunk.js.map",
+    "static/js/3.18546908.chunk.js": "/Stocked-On-Solar/static/js/3.18546908.chunk.js",
+    "static/js/3.18546908.chunk.js.map": "/Stocked-On-Solar/static/js/3.18546908.chunk.js.map",
+    "index.html": "/Stocked-On-Solar/index.html",
+    "static/css/main.0fa04588.chunk.css.map": "/Stocked-On-Solar/static/css/main.0fa04588.chunk.css.map",
+    "static/js/2.4aa97010.chunk.js.LICENSE.txt": "/Stocked-On-Solar/static/js/2.4aa97010.chunk.js.LICENSE.txt",
+    "static/media/QuestionnaireViewer.styles.scss": "/Stocked-On-Solar/static/media/solar.16d16779.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d94bd0c.js",
-    "static/js/2.9994462f.chunk.js",
-    "static/css/main.cf598f71.chunk.css",
-    "static/js/main.a1b0dada.chunk.js"
+    "static/js/runtime-main.546b89d1.js",
+    "static/js/2.4aa97010.chunk.js",
+    "static/css/main.0fa04588.chunk.css",
+    "static/js/main.d588d711.chunk.js"
   ]
 }
