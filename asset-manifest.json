@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Stocked-On-Solar/static/css/main.a71f6545.chunk.css",
-    "main.js": "/Stocked-On-Solar/static/js/main.aa4dfca0.chunk.js",
-    "main.js.map": "/Stocked-On-Solar/static/js/main.aa4dfca0.chunk.js.map",
+    "main.css": "/Stocked-On-Solar/static/css/main.d3254275.chunk.css",
+    "main.js": "/Stocked-On-Solar/static/js/main.00bc728d.chunk.js",
+    "main.js.map": "/Stocked-On-Solar/static/js/main.00bc728d.chunk.js.map",
     "runtime-main.js": "/Stocked-On-Solar/static/js/runtime-main.c7e5dc04.js",
     "runtime-main.js.map": "/Stocked-On-Solar/static/js/runtime-main.c7e5dc04.js.map",
     "static/js/2.1edff3d0.chunk.js": "/Stocked-On-Solar/static/js/2.1edff3d0.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.5b2cf63e.chunk.js": "/Stocked-On-Solar/static/js/3.5b2cf63e.chunk.js",
     "static/js/3.5b2cf63e.chunk.js.map": "/Stocked-On-Solar/static/js/3.5b2cf63e.chunk.js.map",
     "index.html": "/Stocked-On-Solar/index.html",
-    "static/css/main.a71f6545.chunk.css.map": "/Stocked-On-Solar/static/css/main.a71f6545.chunk.css.map",
+    "static/css/main.d3254275.chunk.css.map": "/Stocked-On-Solar/static/css/main.d3254275.chunk.css.map",
     "static/js/2.1edff3d0.chunk.js.LICENSE.txt": "/Stocked-On-Solar/static/js/2.1edff3d0.chunk.js.LICENSE.txt",
     "static/media/Ticket.dc7eae71.svg": "/Stocked-On-Solar/static/media/Ticket.dc7eae71.svg",
     "static/media/Questionnaire.styles.scss": "/Stocked-On-Solar/static/media/solar.16d16779.jpeg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c7e5dc04.js",
     "static/js/2.1edff3d0.chunk.js",
-    "static/css/main.a71f6545.chunk.css",
-    "static/js/main.aa4dfca0.chunk.js"
+    "static/css/main.d3254275.chunk.css",
+    "static/js/main.00bc728d.chunk.js"
   ]
 }
