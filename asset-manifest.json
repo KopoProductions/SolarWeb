@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Stocked-On-Solar/static/css/main.eec4b815.chunk.css",
-    "main.js": "/Stocked-On-Solar/static/js/main.a2e88522.chunk.js",
-    "main.js.map": "/Stocked-On-Solar/static/js/main.a2e88522.chunk.js.map",
-    "runtime-main.js": "/Stocked-On-Solar/static/js/runtime-main.0c85b5bb.js",
-    "runtime-main.js.map": "/Stocked-On-Solar/static/js/runtime-main.0c85b5bb.js.map",
-    "static/js/2.a5bfbd49.chunk.js": "/Stocked-On-Solar/static/js/2.a5bfbd49.chunk.js",
-    "static/js/2.a5bfbd49.chunk.js.map": "/Stocked-On-Solar/static/js/2.a5bfbd49.chunk.js.map",
-    "static/js/3.3364c69e.chunk.js": "/Stocked-On-Solar/static/js/3.3364c69e.chunk.js",
-    "static/js/3.3364c69e.chunk.js.map": "/Stocked-On-Solar/static/js/3.3364c69e.chunk.js.map",
-    "index.html": "/Stocked-On-Solar/index.html",
-    "static/css/main.eec4b815.chunk.css.map": "/Stocked-On-Solar/static/css/main.eec4b815.chunk.css.map",
-    "static/js/2.a5bfbd49.chunk.js.LICENSE.txt": "/Stocked-On-Solar/static/js/2.a5bfbd49.chunk.js.LICENSE.txt",
-    "static/media/Ticket.dc7eae71.svg": "/Stocked-On-Solar/static/media/Ticket.dc7eae71.svg",
-    "static/media/Questionnaire.styles.scss": "/Stocked-On-Solar/static/media/solar.16d16779.jpeg"
+    "main.css": "/static/css/main.bd1c09be.chunk.css",
+    "main.js": "/static/js/main.379cb91a.chunk.js",
+    "main.js.map": "/static/js/main.379cb91a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.25d6d69c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.25d6d69c.js.map",
+    "static/js/2.fbf7b58a.chunk.js": "/static/js/2.fbf7b58a.chunk.js",
+    "static/js/2.fbf7b58a.chunk.js.map": "/static/js/2.fbf7b58a.chunk.js.map",
+    "static/js/3.46eef031.chunk.js": "/static/js/3.46eef031.chunk.js",
+    "static/js/3.46eef031.chunk.js.map": "/static/js/3.46eef031.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bd1c09be.chunk.css.map": "/static/css/main.bd1c09be.chunk.css.map",
+    "static/js/2.fbf7b58a.chunk.js.LICENSE.txt": "/static/js/2.fbf7b58a.chunk.js.LICENSE.txt",
+    "static/media/Ticket.97b23e22.svg": "/static/media/Ticket.97b23e22.svg",
+    "static/media/Questionnaire.styles.scss": "/static/media/solar.16d16779.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c85b5bb.js",
-    "static/js/2.a5bfbd49.chunk.js",
-    "static/css/main.eec4b815.chunk.css",
-    "static/js/main.a2e88522.chunk.js"
+    "static/js/runtime-main.25d6d69c.js",
+    "static/js/2.fbf7b58a.chunk.js",
+    "static/css/main.bd1c09be.chunk.css",
+    "static/js/main.379cb91a.chunk.js"
   ]
 }
